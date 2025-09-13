@@ -20,7 +20,7 @@ All API requests require a valid API key in the `x-upvert-api-key` header. Conta
 
 ```bash
 curl -X GET "https://app.warmoffers.ai/api/v3/warmoffers/popups/org_12345" \
-  -H "x-upvert-api-key: pk_warmly_51N8k9mH2pQ7vR3sT6uW9xY1zA4bC7dE0fG2hJ5kL8mN1pQ4rS7tU0vW3xY6zA9bC2dE5fG8h"
+  -H "x-upvert-api-key: pk_<YOUR_PK>"
 ```
 
 **Success Response (200):**
