@@ -29,16 +29,16 @@ curl -X GET "https://app.warmoffers.ai/api/v3/warmoffers/popups/org_12345" \
 {
   "popups": [
     {
-      "popup_id": 1,
-      "popup_name": "Test Popup 1"
+      "id": "1",
+      "name": "Test Popup 1"
     },
     {
-      "popup_id": 2,
-      "popup_name": "Test Popup 2"
+      "id": "2",
+      "name": "Test Popup 2"
     },
     {
-      "popup_id": 3,
-      "popup_name": "Test Popup 3"
+      "id": "3",
+      "name": "Test Popup 3"
     }
   ]
 }
